@@ -21,7 +21,7 @@ Welcome to my 100-day journey dedicated exclusively to mastering Python programm
 | **Day 01** | 10 Micro Business Problems (ATM, Billing, Ledger) | `for`/`while` loops, tracking states, counters | [Code](./Day_01_to_10/day01_problems.py) |
 | **Day 02** | 10 Data Trackers (Streaks, Validation, Flags) | Stateful conditions, consecutive match criteria, case check loops | [Code](./Day_01_to_10/Day2.py) |
 | **Day 03** | 10 Mathematical Logic Problems (Factors, HCF, LCM, Coprime) | while loops, factorization, divisibility, HCF/LCM algorithms, mathematical reasoning | [Code](./Day_01_to_10/Day3.py) |
-| **Day 04** | *Pending* | Functions, scope, argument passing | `Pending` |
+| **Day 04** | 10 Nested Loop & Matrix Logic Problems (Ranking, Pair Matching, Matrix Operations) | Nested loops, matrix traversal, pair searching, ranking logic, cumulative calculations | [Code](./Day_01_to_10/Day4.py) |
 | **Day 05** | *Pending* | Set operations, handling duplicate data | `Pending` |
 
 ### 📁 Days 26 - 50: Functional Logic & Built-in Modules
